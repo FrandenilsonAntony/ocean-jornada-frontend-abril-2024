@@ -1,8 +1,3 @@
-# React + Vite
+# Recentemente, desenvolvemos Endpoints utilizando uma combinação de tecnologias modernas, incluindo React.js, Vite, JavaScript, CSS e HTML. Essa abordagem nos permitiu criar uma aplicação dinâmica e responsiva, com uma experiência de usuário fluida e interativa. Os Endpoints foram implementados com sucesso na plataforma GitHub e GitHub Codespaces, ampliando ainda mais a acessibilidade e a praticidade da nossa solução.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Gostaríamos de expressar nosso sincero reconhecimento ao Professor Paulo Salvatore, da Salvatore Academy, por sua instrução exemplar durante o curso. Seu conhecimento, orientação e expertise foram fundamentais para o nosso entendimento profundo dessas tecnologias e para a aplicação eficaz delas em nosso projeto. Estamos extremamente gratos pela dedicação e pelo apoio contínuo do Professor Paulo Salvatore, que desempenhou um papel crucial em nosso sucesso.
