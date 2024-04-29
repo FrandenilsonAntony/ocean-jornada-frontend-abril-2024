@@ -1,3 +1,13 @@
+#root {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .card {
   border: 1px solid white;
   padding: 16px;
@@ -15,6 +25,7 @@
 }
 
 .card > h2 {
+  border-left: 8px solid #A9D3E9;
   font-size: 32px;
 }
 
